@@ -1,0 +1,37 @@
+ToDo's
+
+1. build project
+ -  creating folder structure 
+ - adding files
+ - connecting files 
+
+2. Navbar
+ - 2 links and a name
+
+3. Porfolio item grid
+ - images
+ - titles
+ - descriptions
+ - animations 
+ - JavaScript
+
+4. About page 
+ - image
+ - split column layout
+ - content
+
+ porfolio1.jpg = ACHILLEA 'RED VELVET'
+ porfolio2.jpg = ACHILLEA 'MOONSHINE'
+ porfolio3.jpg = ACONITUM 'SPATLESE'
+ porfolio4.jpg = ADIANTUM PEDATUM 'IMBRICATUM'
+ porfolio5.jpg = AGAPANTHUS 'BLACK PANTHA'
+ porfolio6.jpg = AGASTACHE 'ORANGE NECTAR'
+ porfolio7.jpg = AGAPANTHUS 'ENIGMA'
+ porfolio8.jpg = AGASTACHE 'SUMMER GLOW'
+ porfolio9.jpg = AGAVE PARRYI 'CREAM SPIKE'
+ porfolio10.jpg = ALSTROEMERIA 'INDIAN SUMMER'
+ porfolio11.jpg = ANGELICA GIGAS
+ porfolio12.jpg = ASTRANTIA 'HADSPEN BLOOD'
+
+
+font style: Permanent Marker
